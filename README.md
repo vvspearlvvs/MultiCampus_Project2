@@ -1,13 +1,9 @@
-## README
-
-- git 협업 방법 fork 방식 참고 자료: https://seungwubaek.github.io/tools/git/contributing_using_pull_request/
-
 ## GIT 사용방법 
 ### **1. git bash 실행**
 
 ### **2. clone명령실행** 
 
-`$ git clone https://github.com/vvspearlvvs/MultiCampus_Project`
+`$ git clone https://github.com/DaeGyeongYi/05_2nd_Project.git`
 
 ### **3. status 명령실행** 
 
@@ -54,6 +50,6 @@
 
 예시: git commit -m "20210812 : 2021년 항공데이터 처리 by kjj"
 
-### **8. puhs 명령실행** 
+### **8. push 명령실행** 
 
 `$ git push -u origin main`

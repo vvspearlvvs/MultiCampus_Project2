@@ -1,3 +1,7 @@
+##### !!! 이미지 내의 주소는 https://github.com/DaeGyeongYi/05_2nd_Project.git 로 바꿔야함니다 !!!
+
+
+
 ![1](HOW%20TO%20USE%20GIT.assets/1.png)
 
 1. <b>`` pwd``</b> 명령어로 현재 위치를 확인합니다.
