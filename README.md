@@ -1,4 +1,11 @@
+## 프로젝트 Notion link
+
+https://www.notion.so/2-49d40ffa83e1428a828f7b8ab1f13afb
+
+
+
 ## GIT 사용방법 
+
 ### **1. git bash 실행**
 
 ### **2. clone명령실행** 
